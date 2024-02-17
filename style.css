@@ -358,7 +358,7 @@
 
 @media (max-width: 845px) {
   .main__container .block2 .block2-pics {
-    gap: 10px;
+    gap: 5px;
   }
   .footer__container .footer-block p {
     margin: 0;
